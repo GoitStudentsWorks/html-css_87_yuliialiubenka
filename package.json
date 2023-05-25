@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/CodeNature_01-project/",
+    "build": "vite build --base=/html-css_87_yuliialiubenka/",
     "preview": "vite preview"
   },
   "devDependencies": {
